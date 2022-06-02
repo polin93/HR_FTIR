@@ -1,0 +1,12 @@
+host 169.254.248.16
+port 8900
+protocol 1
+rate 8
+channels 3
+resolution 2
+use_file 0
+format 0
+samples 20000000
+save_mode 1
+use_calib 1
+attenuator 2
